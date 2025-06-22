@@ -20,19 +20,17 @@
     </style>
   </head>
   <body>
-    <h1>AI Summary exterminator</h1>
+    <!-- NOTE: This h1 and ul are populated dynamically from JS. -->
+    <h1 id="popupH1"></h1>
     <p>Removes AI summaries from:</p>
-    <!-- NOTE: This ul is populated dynamically from JS -->
     <ul id="supported-sites"></ul>
-    <script src="../shared.js"></script>
-    <script src="popup.js"></script>
     <p>
       Feel free to request other sites
       <a href="https://github.com/orjahren/remove-ai-summaries">on Github</a>.
     </p>
 
     <!-- NOTE: Window.open in JS does not seem to work with extensions.
-               Use fake button to circumvent this -->
+               Use fake button to circumvent this. -->
     <a
       href="https://github.com/orjahren/remove-ai-summaries/issues/new"
       target="_blank"
@@ -41,5 +39,7 @@
     >
       Request a new site
     </a>
+    <script src="../shared.js"></script>
+    <script src="popup.js"></script>
   </body>
 </html>
