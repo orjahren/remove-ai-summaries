@@ -16,7 +16,7 @@
     {
       // TODO: Set this to only run on specific hosts based on what is actually supported
       "matches": ["<all_urls>"],
-      "js": ["content-scripts/content.js", "shared.js"]
+      "js": ["shared.js", "content-scripts/content.js"]
     }
   ],
   "web_accessible_resources": [
