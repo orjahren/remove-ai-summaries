@@ -1,7 +1,6 @@
-const extensionName = "AI Summary exterminator";
-
 // Use window to make it available globally
-const supportedHosts = window.SUPPORTED_HOSTS || [];
+const supportedHosts = window.SUPPORTED_HOSTS;
+const extensionName = window.AI_EXTERMINATOR_NAME;
 
 const PROBABLY_AI_CLASS_NAMES = [
   "fact-reference", // NRK
