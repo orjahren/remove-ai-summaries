@@ -6,6 +6,7 @@ Requires manual maintenance. I've implemented support for these sites:
 
 - [NRK](https://nrk.no)
 - [VG](https://vg.no)
+- [Dagbladet](https://dagbladet.no)
 
 ## Motivation
 

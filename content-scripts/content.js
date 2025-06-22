@@ -5,12 +5,14 @@ const extensionName = window.AI_EXTERMINATOR_NAME;
 const PROBABLY_AI_CLASS_NAMES = [
   "fact-reference", // NRK
   "_summary_1flq1_1", // VG uses compile time genearted class names. Not Nice.
+  "factbox", // Dagbladet (why am i doing this?)
 ];
 
 const PROBABLY_AI_KEYWORDS = [
   "Sammendrag", // NRK
   "Kortversjonen", // VG
   "Saken oppsummert",
+  "Kort fortalt", // Dagbladet
 ];
 
 // TODO: Handle this case along with the rest of the logic
