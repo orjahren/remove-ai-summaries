@@ -8,6 +8,9 @@ Requires manual maintenance. I've implemented support for these sites:
 - [VG](https://vg.no)
 - [Dagbladet](https://dagbladet.no)
 
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/c40dd2b1-697a-471e-b24b-253a6ab3455e" />
+
+
 ## Installation
 
 TODO: Publish on Chrome webstore.
