@@ -1,8 +1,8 @@
 {
-  "name": "Remove AI summaries",
+  "name": "AI summary exterminator",
   "version": "0.0.0.1",
   "manifest_version": 3,
-  "description": "A browser extension that uses JavaScript to insert an image at the top of the current webpage.",
+  "description": "A browser extension that removes AI summaries from news articles.",
   "icons": {
     "16": "icons/extension-icon16x16.png",
     "32": "icons/extension-icon32x32.png",
@@ -14,6 +14,7 @@
   },
   "content_scripts": [
     {
+      // TODO: Set this to only run on specific hosts based on what is actually supported
       "matches": ["<all_urls>"],
       "js": ["content-scripts/content.js", "shared.js"]
     }
