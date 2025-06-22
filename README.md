@@ -8,8 +8,7 @@ Requires manual maintenance. I've implemented support for these sites:
 - [VG](https://vg.no)
 - [Dagbladet](https://dagbladet.no)
 
-<img width="428" alt="image" src="https://github.com/user-attachments/assets/c40dd2b1-697a-471e-b24b-253a6ab3455e" />
-
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/958090b7-3a0f-4595-b46a-95e4bf0ecf08" />
 
 ## Installation
 

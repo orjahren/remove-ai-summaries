@@ -26,5 +26,4 @@ document.addEventListener("DOMContentLoaded", () => {
   // set name of the extension in the header
   const header = document.querySelector("#popupH1");
   header.textContent = extensionName;
-  document.body.style.background = "lightgray"; // Makes the popup background colored to confirm it's loaded
 });
