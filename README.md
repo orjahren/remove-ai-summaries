@@ -20,7 +20,7 @@ Install from source for now. See e.g. [this guide](https://dev.to/ben/how-to-ins
   - https://www.brainonllm.com/
   - https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
   - https://arxiv.org/abs/2506.08872
-- [Malthe-Sørensen](https://www.mn.uio.no/fysikk/personer/vit/malthe/)'s
+- Prof. [Malthe-Sørenssen](https://www.mn.uio.no/fysikk/personer/vit/malthe/)'s
   dissemination
   - https://www.dn.no/kronikk/kunstig-intelligens/ki/ai/gjor-kunstig-intelligens-oss-dummere/2-1-1694498
   - https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/
