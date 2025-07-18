@@ -7,6 +7,7 @@ const PROBABLY_AI_CLASS_NAMES = [
 const PROBABLY_AI_KEYWORDS = [
   "Sammendrag", // NRK
   "Oppsummering av saken", // NRK summer 2025
+  "Saka oppsummert", // NRK nynorsk
   "Kortversjonen", // VG
   "Saken oppsummert",
   "Kort fortalt", // Dagbladet
